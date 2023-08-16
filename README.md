@@ -1,3 +1,7 @@
+# My portfolio - Jayasree Konduru
+
+This is a Live link [Live link](https://portfolio-jayasreekonduru.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
